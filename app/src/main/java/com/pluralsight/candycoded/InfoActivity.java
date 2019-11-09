@@ -56,4 +56,4 @@ public class InfoActivity extends AppCompatActivity {
         startActivity(phoneIntent);
     }
 }
-}
+
